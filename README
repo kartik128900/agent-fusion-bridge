@@ -1,0 +1,1 @@
+This FastAPI service provides a unified endpoint to simplify agent creation across multiple AI platforms (Vapi & Retell). By passing a provider parameter and standardized agent details, users can seamlessly create agents on either platform without worrying about API-specific payload formats.
